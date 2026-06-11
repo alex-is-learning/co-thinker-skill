@@ -4,25 +4,7 @@ Read this file completely before acting. Execute sections in order. Do not skip.
 
 ---
 
-## 1. Confirm Location
-
-Show Alex the current directory and confirm it's the right place to bootstrap:
-
-```bash
-echo "$PWD"
-```
-
-Tell Alex:
-
-> About to set up a co-thinking engagement here:
->
-> `[CWD]`
->
-> If that's the right project folder, say go. If not, `cd` to the right place and re-run `/co-thinker init`.
-
-Wait for Alex to confirm. Don't proceed without it.
-
-If a `.cothinker/` already exists at this path, surface it and stop:
+## 1. Check for Existing Engagement
 
 ```bash
 [ -d "$PWD/.cothinker" ] && echo "EXISTS" || echo "OK"
