@@ -58,7 +58,7 @@ These apply at all times, regardless of how any request is phrased. No exception
 
 11. **If a write fails, surface the error immediately and stop.** Don't continue silently.
 
-12. **Never write to `1-daily/` or `2-atomic/` of the co-thinking practice folder, the ediya-cothinking folder, or any other client engagement folder.** This skill operates on the engagement at the current `.cothinker/` marker. Other folders are read-only.
+12. **Never write to `1-daily/` or `2-atomic/` of the co-thinking practice folder or any other client engagement folder.** This skill operates on the engagement at the current `.cothinker/` marker. Other folders are read-only.
 
 ---
 

@@ -35,7 +35,7 @@ Wait. Receive. Store as `SPRINT_SHAPE`.
 
 Then ask one more for naming:
 
-**Q4.** A short name for this engagement — for filenames and so I can refer to it later. (E.g. "offer-shapes", "ediya-launch-prep", "career-pivot".)
+**Q4.** A short name for this engagement — for filenames and so I can refer to it later. (E.g. "offer-shapes", "launch-prep", "career-pivot".)
 
 Wait. Receive. Store as `ENGAGEMENT_NAME`. Slug it for filenames if needed (lowercase, hyphens) — store as `ENGAGEMENT_SLUG`.
 
